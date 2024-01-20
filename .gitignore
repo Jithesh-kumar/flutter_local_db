@@ -47,7 +47,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-.flutter-plugins/
-.analysis_options.yaml/
+.flutter-plugins
+.analysis_options.yaml
 /flutter_local_db.iml
 /pubspec.lock
+.metadata/
