@@ -49,5 +49,5 @@ app.*.map.json
 /android/app/release
 .flutter-plugins/
 .analysis_options.yaml/
-/flutter_local_db.iml/
-/pubspec.lock/
+/flutter_local_db.iml
+/pubspec.lock
